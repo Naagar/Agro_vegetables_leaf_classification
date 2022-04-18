@@ -1,7 +1,7 @@
 # Agro_vegetables_leaf_classification
 Vegetable leafs classification for the prediction of disease 
 
-Dataset: 
+Dataset: https://github.com/spMohanty/PlantVillage-Dataset (PlantVillage-Dataset)
 
 Ten class classification
 
