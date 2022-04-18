@@ -3,7 +3,7 @@ Vegetable leafs classification for the prediction of disease
 
 Dataset: https://github.com/spMohanty/PlantVillage-Dataset (PlantVillage-Dataset)
 
-Ten class classification
+Ten class classification: labels_map
 
         1. 
         2. 
